@@ -85,9 +85,10 @@ uvicorn main:app --reload
 
 ### 💻 Frontend Setup (if using React)
 
-```bash
+```Bash
 # Navigate to frontend directory
 cd frontend
+
 
 # Install dependencies
 npm install
