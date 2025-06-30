@@ -44,8 +44,7 @@ Simple, responsive UI with seamless navigation for all users.
 
 ## 🚀 Live Demo
 
-🔗 [Click Here to Explore TravelSathi](#)  
-*(http://10.2.133.37:8081/)*
+🔗 [Click Here to Explore TravelSathi](https://travel-sathi-lake.vercel.app/)  
 
 ---
 
