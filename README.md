@@ -46,7 +46,7 @@ Simple, responsive UI with seamless navigation for all users.
 ## 🚀 Live Demo
 
 🔗 [Click Here to Explore TravelSathi](#)  
-*(Replace with deployed URL)*
+*(http://10.2.133.37:8080/)*
 
 ---
 
