@@ -1,73 +1,91 @@
-# Welcome to your Lovable project
+# 🌍 TravelSathi – Your Multilingual Travel Companion
 
-## Project info
+We came up with **TravelSathi** after facing repeated struggles while traveling in unfamiliar regions without reliable internet or access to information in our native language — a gap we realized many Indian travelers experience.This inspired us to build a solution that makes travel more inclusive, informative, and accessible for everyone, regardless of language or connectivity barriers.
 
-**URL**: https://lovable.dev/projects/4362b0f7-5ff2-444d-963a-bc129a997447
+**TravelSathi**   Is  a  smart, multilingual travel guide app designed to make your journeys smoother, safer, and more informed — no matter where you go in India 🇮🇳 or beyond. Powered by real-time data from **Wikipedia**, **Wikivoyage**, and other trusted sources, it offers essential cultural tips, destination guides, and emergency info — all available **offline** and in **multiple Indian languages**.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## ✨ Key Features
 
-**Use Lovable**
+✅ **Explore Destinations Smartly**  
+Search and discover detailed information about places, local customs, culture, and rules.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/4362b0f7-5ff2-444d-963a-bc129a997447) and start prompting.
+🧠 **Wikipedia & Wikivoyage Powered**  
+Automatically fetch fact-checked content from reliable sources via public APIs.
 
-Changes made via Lovable will be committed automatically to this repo.
+📞 **Emergency Contacts Directory**  
+Access crucial emergency numbers (police, ambulance, etc.) for every location.
 
-**Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+🌐 **Multilingual Support**  
+Supports popular Indian languages with a toggle button for smooth switching.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+📴 **Offline Mode**  
+Cache and view essential travel data without internet connectivity.
 
-Follow these steps:
+🧭 **User-Friendly Design**  
+Simple, responsive UI with seamless navigation for all users.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 👥 Meet the Team
 
-# Step 3: Install the necessary dependencies.
-npm i
+| Name                  |            Role                                                                 |
+|-----------------------|----------------------------------------------------------------------|
+| **A. Harinath Reddy** | 🧠 *Project Manager*: Testing, coordination, documentation, demo prep |
+| **S. Charitesh Reddy**| 🔧 *Backend Dev*: API integration, caching, emergency info            |
+| **Ananya Reddy**      | 🌐 *Backend Dev*: Translation APIs, multilingual sync, offline logic  |
+| **N. Dheeraj Chowdary**| 🎨 *Frontend Dev*: UI for offline mode, language toggling            |
+| **B. Khushal**        | 💻 *Frontend Dev*: UI polish, responsive layouts, toggle support      |
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+---
+
+
+## 🚀 Live Demo
+
+🔗 [Click Here to Explore TravelSathi](#)  
+*(http://10.2.133.37:8081/)*
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js with TypeScript, Vite, shadcn/ui, Tailwind CSS
+- **APIs:** Wikipedia REST API, Wikivoyage API  
+- **Translation:** Google Translate API / Hugging Face Transformers  
+- **Offline Mode:** Service Workers, IndexedDB / localStorage  
+- **Deployment:** Netlify (Frontend)  
+- **Version Control:** Git + GitLab  
+
+---
+
+## ⚙️ Getting Started
+
+### 📦 Prerequisites
+
+- Node.js 14+  
+- Git installed on your system
+
+### 💻 Frontend Setup
+
+```bash
+# Clone the repository
+git clone https://code.swecha.org/soai2025/soai-hackathon/TravelSathi.git
+
+# Navigate to project directory
+cd TravelSathi
+
+# Install dependencies
+npm install
+
+# Start the development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 🧳 Why TravelSathi?
 
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/4362b0f7-5ff2-444d-963a-bc129a997447) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+> Because language shouldn't be a barrier, and information shouldn't be limited by connectivity.  
+**TravelSathi** empowers every traveler with culturally aware, localized travel knowledge — even without the internet.
