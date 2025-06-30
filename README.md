@@ -4,7 +4,7 @@
 We came up with **TravelSathi** after facing repeated struggles while traveling in unfamiliar regions without reliable internet or access to information in our native language — a gap we realized many Indian travelers experience.This inspired us to build a solution that makes travel more inclusive, informative, and accessible for everyone, regardless of language or connectivity barriers.
 
 
-**TravelSathi** is a smart, multilingual travel guide app designed to make your journeys smoother, safer, and more informed — no matter where you go in India 🇮🇳 or beyond. Powered by real-time data from **Wikipedia**, **Wikivoyage**, and other trusted sources, it offers essential cultural tips, destination guides, and emergency info — all available **offline** and in **multiple Indian languages**.
+**TravelSathi** Is a smart, multilingual travel guide app designed to make your journeys smoother, safer, and more informed — no matter where you go in India 🇮🇳 or beyond. Powered by real-time data from **Wikipedia**, **Wikivoyage**, and other trusted sources, it offers essential cultural tips, destination guides, and emergency info — all available **offline** and in **multiple Indian languages**.
 
 ---
 
