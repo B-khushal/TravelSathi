@@ -32,7 +32,7 @@ Simple, responsive UI with seamless navigation for all users.
 
 ## 👥 Meet the Team
 
-| Name                  | Role                                                                 |
+| Name                  |            Role                                                                 |
 |-----------------------|----------------------------------------------------------------------|
 | **A. Harinath Reddy** | 🧠 *Project Manager*: Testing, coordination, documentation, demo prep |
 | **S. Charitesh Reddy**| 🔧 *Backend Dev*: API integration, caching, emergency info            |
