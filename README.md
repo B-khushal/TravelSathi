@@ -18,6 +18,7 @@ Automatically fetch fact-checked content from reliable sources via public APIs.
 📞 **Emergency Contacts Directory**  
 Access crucial emergency numbers (police, ambulance, etc.) for every location.
 
+
 🌐 **Multilingual Support**  
 Supports popular Indian languages with a toggle button for smooth switching.
 
